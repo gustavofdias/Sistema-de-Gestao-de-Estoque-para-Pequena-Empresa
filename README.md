@@ -1,4 +1,4 @@
-![](https://github.com/gustavofdias/Sistema-de-Gestao-de-Estoque-para-Pequena-Empresa/blob/main/banner.jpg)
+![banner](https://github.com/gustavofdias/Sistema-de-Gestao-de-Estoque-para-Pequena-Empresa/blob/main/banner.jpg)
 ## Sistema de Gestão de Estoque para Pequena Empresa
 Este sistema foi criado para facilitar a gestão de estoque em pequenas empresas. Ele centraliza informações sobre produtos, categorias, movimentações de estoque e fornecedores, permitindo um controle de estoque eficiente e a manutenção de um registro detalhado das operações.
 
@@ -32,9 +32,10 @@ fornecedores, tornando mais fácil o contato e a gestão das compras.
 -  Sistema de gerenciamento de banco de dados SQLite.
 -  IDE recomendada: IntelliJ IDEA (ou outra IDE de sua preferência, como Visual
 Studio Code, etc.).
-Configuração
+
+### Configuração
 Clone o repositório:
-git clone [url-do-repositorio]
+git clone https://github.com/gustavofdias/Sistema-de-Gestao-de-Estoque-para-Pequena-Empresa.git
 
 ### Uso
 Este sistema fornece uma interface de linha de comando para gerenciar produtos,
